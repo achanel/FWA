@@ -1,4 +1,4 @@
-package main.java.edu.school21.cinema.exeption;
+package edu.school21.cinema.exeption;
 
 import java.util.HashMap;
 import java.util.Map;
